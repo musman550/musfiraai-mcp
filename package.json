@@ -1,0 +1,26 @@
+{
+  "name": "musfiraai-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Musfiraai — request free custom tools, automations, AI agents, and n8n workflows directly from Claude Desktop, Claude Code, or any MCP client.",
+  "type": "module",
+  "bin": {
+    "musfiraai-mcp": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["mcp", "model-context-protocol", "musfiraai", "automation", "n8n", "ai-agent", "claude"],
+  "author": "Musfiraai",
+  "license": "MIT",
+  "homepage": "https://musfiraai.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/musman550/musfiraai-mcp.git"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
