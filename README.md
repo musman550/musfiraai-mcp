@@ -1,5 +1,7 @@
 # musfiraai-mcp
 
+MCP server for Musfiraai — request free custom tools, automations, AI agents, and n8n workflows directly from Claude Desktop, Claude Code, or any MCP-compatible client.
+
 <!-- AUTO-SEO:START -->
 > **Summary:** musfiraai-mcp provides an MCP server that lets users submit free build requests and check their status. It integrates with Claude Desktop, Claude Code, and any MCP-compatible client, supporting n8n workflows.
 
@@ -13,9 +15,6 @@
 
 <sub>Generated automatically from this repository's own content. [How this works](https://musman550.github.io/github-traffic-analytics-dashboard/optimizer/)</sub>
 <!-- AUTO-SEO:END -->
-
-
-MCP server for Musfiraai — request free custom tools, automations, AI agents, and n8n workflows directly from Claude Desktop, Claude Code, or any MCP-compatible client.
 
 ## Tools
 
